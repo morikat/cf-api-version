@@ -5,21 +5,21 @@
 
 ### URL
 
-<a href="http://cf-api-version.mybluemix.net/" onClick="ga('send','event','link','click','cf-apiversion-bluemix');">http://cf-api-version.mybluemix.net/</a>
+<a href="http://cf-api-version.mybluemix.net/" onClick="ga('send','event','link','click','cf-api-version-bluemix');">http://cf-api-version.mybluemix.net/</a>
 
 ## cf-api-checker
 
 ### URL
 
-<a href="http://cf-api-checker.mybluemix.net/api/version/">http://cf-api-checker.mybluemix.net/api/version/</a>
+<a href="http://cf-api-checker.mybluemix.net/api/version/" onClick="ga('send','event','link','click','cf-api-checker-bluemix');">http://cf-api-checker.mybluemix.net/api/version/</a>
 
 ##  cf-api-version-google-spreadsheet
 
 ### URL
 
-<a href="https://docs.google.com/spreadsheets/d/1N8VOMu4dLYJn-vWawHm4CjkAiIkPoJ_koqjB5qt8zns/edit#gid=1979897783">google spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/1N8VOMu4dLYJn-vWawHm4CjkAiIkPoJ_koqjB5qt8zns/edit#gid=1979897783"  onClick="ga('send','event','link','click','cf-api-version-google-spreadsheet');">google spreadsheet</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1N8VOMu4dLYJn-vWawHm4CjkAiIkPoJ_koqjB5qt8zns/export?format=csv&gid=1979897783">google spreadsheet csv</a>
+<a href="https://docs.google.com/spreadsheets/d/1N8VOMu4dLYJn-vWawHm4CjkAiIkPoJ_koqjB5qt8zns/export?format=csv&gid=1979897783"  onClick="ga('send','event','link','click','cf-api-version-google-spreadsheet-csv');">google spreadsheet csv</a>
 
 
 ### how to use
@@ -84,17 +84,17 @@ timestamp,vendor,version
 
 ### URL
 
-<a href="https://docs.google.com/spreadsheets/d/1JdD0fxQ4qktigwVsvT1z8h3WZT01hL7ZCJ0NylF2DSk/edit">google spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/1JdD0fxQ4qktigwVsvT1z8h3WZT01hL7ZCJ0NylF2DSk/edit"  onClick="ga('send','event','link','click','cf-apiversion-tweet-history');">google spreadsheet</a>
 
 https://twitter.com/cf_provider
 
 ## project pivotal tracker
 
-<a href="https://www.pivotaltracker.com/n/projects/2023051">https://www.pivotaltracker.com/n/projects/2023051</a>
+<a href="https://www.pivotaltracker.com/n/projects/2023051"  onClick="ga('send','event','link','click','cf-apiversion-pivotal-tracker');">https://www.pivotaltracker.com/n/projects/2023051</a>
 
 ## Twitter 
 
-<a href="https://twitter.com/cf_provider">https://twitter.com/cf_provider</a>
+<a href="https://twitter.com/cf_provider"  onClick="ga('send','event','link','click','cf-provider-twitter');">https://twitter.com/cf_provider</a>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
