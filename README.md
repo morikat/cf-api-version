@@ -5,7 +5,7 @@
 
 ### URL
 
-<a href="http://cf-api-version.mybluemix.net/">http://cf-api-version.mybluemix.net/</a>
+<a href="http://cf-api-version.mybluemix.net/" onClick="ga('send','event','link','click','cf-apiversion-bluemix');">http://cf-api-version.mybluemix.net/</a>
 
 ## cf-api-checker
 
